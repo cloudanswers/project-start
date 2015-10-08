@@ -1,15 +1,15 @@
-<project name>
-==============
+project name
+============
 
-<insert continuous integration build status image here, like from codeship>
+insert continuous integration build status image here, like from codeship
 
-<describe what this org or managed package is focused on>
+describe what this org or managed package is focused on
 
 
 Development 
 ------------
 
-1. Each developer should have their own <devorg|sandbox>
+1. Each developer should have their own devorg|sandbox
 1. Create new project in mavensmate
 1. Open terminal, cd to project folder
 1. `git clone -f <this repo> . # you're on master at this point`
@@ -23,4 +23,4 @@ Development
 License
 -------
 
-<confidential|mit|bsd|gpl>
+confidential|mit|bsd|gpl
